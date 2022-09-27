@@ -4,4 +4,3 @@ theme:
   palette: default
   features:
     - navigation.instant
-    - navigation.tabs
