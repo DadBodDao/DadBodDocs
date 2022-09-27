@@ -5,5 +5,5 @@ Claim your bod.
 Maintain his peak dad bod conditioning.
 Participate in minigames to earn tokens!
 
-These docs are still in the works! 
-Please come back soon!
+As should hopefully be quite obvious, these docs are still in the work.
+Please come back soon! They should be flourishing with the greatest of DadBod information and details!
