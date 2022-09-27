@@ -1,3 +1,7 @@
 site_name: Dad Bod Docs
 theme:
   name: material
+  palette: default
+  features:
+    - navigation.instant
+    - navigation.tabs

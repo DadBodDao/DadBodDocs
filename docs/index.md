@@ -1,9 +1,13 @@
 # Welcome to DadBod!
 
-DadBod is a project designed to be funny and engaging to almost any age group.
-Claim your bod.
-Maintain his peak dad bod conditioning.
-Participate in minigames to earn tokens!
+Basic Tenets of the DadBod Kin
+- Claim it
+- Maintain it
+- Use it
 
-As should hopefully be quite obvious, these docs are still in the work.
-Please come back soon! They should be flourishing with the greatest of DadBod information and details!
+# Vocabulary
+- **DadBod Game**: The game that can be played if one has a Bod.
+- **DadBod NFT**: See [[DadBod NFT]] for info on these bad boys.
+- **Bod**: A playable character within the DadBod Game. Can be designed and purchased.
+- **Item**: An NFT that can be equipped to a Bod. 
+
