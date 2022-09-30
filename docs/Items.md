@@ -18,7 +18,8 @@ Items function similary to DadBods, but because there are less of them, the fund
 In the item shop in game, people can purchase items for their DadBod.  
 Each time an item is purchased, the 20% of the funds are split up among the owners of that Item.  
 
-Example:  
+Example: 
+
 - There are 5 blue trench coats
 - Someone buys a blue trench coat for their Bod for 1 KDA
 - 20% of the purchase is split up among the 5 owners
