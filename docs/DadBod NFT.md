@@ -4,12 +4,14 @@ Claim them starting **Decemeber 1st, 2022**
 
 ## DadBods
 Randomized Genetics
+
 - Hair Style and Color  
 - Facial Hair Style and Color  
 - Skin Color  
 - Eyes Color  
 
 Random Items
+
 - Headware  
 - Eyeware  
 - Outfit  
