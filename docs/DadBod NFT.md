@@ -24,6 +24,7 @@ When someone purchases access to the game, 20% of that purchase will be split am
 Each DadBod represents a fraction of that 20%.
 
 Example:
+
 - I own 2 DadBods  
 - 1000 people buy a Bod for 10 KDA, so 10000 KDA is spent buying Bods.  
 - 2000 KDA is sent to DadBod holders  
