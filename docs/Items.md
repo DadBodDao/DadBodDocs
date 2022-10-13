@@ -13,6 +13,10 @@ Original Items are those that come with a DadBod NFT. They are slightly differen
 ## Gameplay
 As of right now, Items have no impact on stats within the game.
 
+## The DadBod Shop
+Items can be purchased from the in game shop using crypto.  
+We are still working out the details on this.  
+
 ## Utility
 Items function similary to DadBods, but because there are less of them, the funds are split up among fewer people.  
 In the item shop in game, people can purchase items for their Bod.  
