@@ -4,3 +4,6 @@ theme:
   palette: default
   features:
     - navigation.instant
+markdown_extensions:
+  - attr_list
+  - md_in_html

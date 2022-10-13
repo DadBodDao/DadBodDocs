@@ -15,7 +15,7 @@ As of right now, Items have no impact on stats within the game.
 
 ## Utility
 Items function similary to DadBods, but because there are less of them, the funds are split up among fewer people.  
-In the item shop in game, people can purchase items for their DadBod.  
+In the item shop in game, people can purchase items for their Bod.  
 Each time an item is purchased, the 20% of the funds are split up among the owners of that Item.  
 
 Example: 
