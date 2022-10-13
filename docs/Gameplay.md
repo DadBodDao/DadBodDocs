@@ -4,6 +4,7 @@ DadBod is a game in which you take care of your Bod. If you don't take care of h
 Obviously, we don't want either of these to occur to our Bod, so we must remain vigilant.
 
 ## Designing Your Bod
+![CharacterDesigner](Assets/Character_Designer.png)
 Those who don't get in on the initial DadBod mint can still access the game by purchasing a Bod.  
 People who join in this way can design their Bod in any way they want: Choose their haircolor and style, facial hair style, skin color, etc.  
 Fresh Bods will have generic items, but players can go deck out their Bod at the shop described in [Items](Items.md).  
