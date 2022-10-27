@@ -1,6 +1,9 @@
 # DadBod NFT
-9001 DadBods, just to be over 9000.  
-Claim them starting **Decemeber 1st, 2022**
+10,000 DadBods.  
+9,001 for public mint, just to be over 9000.  
+199 reserved for those who have attained the rank of [whitelisted](Whitelist.md).  
+800 reserved for auctions, custom bods, and future competitions.  
+Claim them starting **Decemeber 1st, 2022, 12:00AM UTC**
 
 ## Traits
 **Randomized Genetics**
@@ -33,5 +36,5 @@ Example:
 - I receive `(2/9001) * 2000 = 0.444` KDA  
 
 ## Items
-Each DadBod minted will also come with at least 1 item.  
+Each DadBod minted will also come with at least 1 item, unless they are from the whitelisted pool, in which case they are fully clothed.  
 Go [here](Items.md) for more information items and what they do.  
