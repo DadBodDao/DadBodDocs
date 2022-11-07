@@ -1,7 +1,8 @@
 site_name: Dad Bod Docs
 theme:
   name: material
-  palette: default
+  palette: 
+    scheme: slate
   features:
     - navigation.instant
 markdown_extensions:

@@ -1,8 +1,7 @@
 # DadBod NFT
+## Supply
 10,000 DadBods.  
-9,001 for public mint, just to be over 9000.  
-199 reserved for those who have attained the rank of [whitelisted](Whitelist.md).  
-800 reserved for auctions, custom bods, and future competitions.  
+For more info on allocation of the initial supply, read [here](Supply.md).   
 Claim them starting **Decemeber 1st, 2022, 12:00AM UTC**
 
 ## Traits
