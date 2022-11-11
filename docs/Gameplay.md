@@ -1,4 +1,4 @@
-# DadBod Gameplay
+# Gameplay
 DadBod is a game in which you take care of your Bod. If you don't take care of him he will go out of control and either become insanely obese, or frighteningly ripped.
 
 Obviously, we don't want either of these to occur to our Bod, so we must remain vigilant.
@@ -6,7 +6,7 @@ Obviously, we don't want either of these to occur to our Bod, so we must remain 
 ## Designing Your Bod
 ![CharacterDesigner](Assets/Character_Designer.png)
 Those who don't get in on the initial DadBod mint can still access the game by purchasing a Bod.  
-People who join in this way can design their Bod in any way they want: Choose their haircolor and style, facial hair style, skin color, etc.  
+People who purchase a Bod can design it in any way they want: Choose their hair color and style, facial hair color and style, skin color, etc.  
 Fresh Bods will have generic items, but players can go deck out their Bod at the shop described in [Items](Items.md).  
 To keep Bods separate from DadBods, and because we believe in segregation of the elite, Bods will not have the golden ear mentioned in [DadBodNFT](DadBodNFT.md).  
 

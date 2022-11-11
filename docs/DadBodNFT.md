@@ -19,12 +19,14 @@ Claim them starting **Decemeber 1st, 2022, 12:00AM UTC**
 - Outfit  
 - Back
 
-Each DadBod will have a golden ear, which will set him apart from all the other Bods roaming the game.
+Each DadBod will have a golden ear, which will set him apart from all the other Bods roaming the game.  
+DadBod genetics are static and will be locked at the time of mint. You cannot change them.
+DadBod items are dynamic: You can unequip the ones he comes with and equip different ones when you acquire them in the game.  
 
 ## DadBod Utility
 Anyone can purchase access to DadBod by buying a Bod to play with.  
 DadBods provide automatic access to the game. An automatic, beautiful, Bod.   
-When someone purchases access to the game, 20% of that purchase will be split among DadBod NFT holders.  
+When someone purchases access to the game, 20% of that purchase will be split among all DadBod NFT holders.  
 Each DadBod represents a fraction of that 20%.  
 
 Example:

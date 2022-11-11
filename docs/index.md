@@ -1,6 +1,7 @@
 # Welcome to DadBod!
 
-Basic Tenets of the DadBod Kin
+Basic Tenets of the DadBod Kin:
+
 - Claim it
 - Maintain it
 - Use it
