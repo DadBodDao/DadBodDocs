@@ -3,7 +3,25 @@
 9,001 in the public and private sale, just to be over 9000.  
 199 reserved for those who have attained the rank of Whitelist.  
 100 reserved for the verified, OG Dads.  
-700 reserved for auctions, custom bods, and future competitions. 
+700 reserved for auctions, custom bods, and future competitions.
+
+## Tranch Sale
+Our mint will happen in tranches of 1000. This means that after 1000 NFTs are minted, the price will increase, and continue to do so for each 1000 until all DadBod NFTs are minted.
+
+Here are the current tranches and their prices:
+
+- Tranche 1: 0 - 999, 10 KDA
+- Tranche 2: 1000 - 1999, 12 KDA
+- Tranche 3: 2000 - 2999, 14 KDA
+- Tranche 4: 3000 - 3999, 16 KDA
+- Tranche 5: 4000 - 4999, 18 KDA
+- Tranche 6: 5000 - 5999, 20 KDA
+- Tranche 7: 6000 - 6999, 23 KDA
+- Tranche 8: 7000 - 7999, 26 KDA
+- Tranche 2: 8000 - 8999, 30 KDA
+- Tranche 2: 9000 - 1999, 0 KDA -> One DadBod, the LAST ONE!
+
+Once a tranch has sold out, all the DadBodNFT holders will be snapshotted, and the revenue from DadBod NFT mints in future tranches will be split among the DadBodNFT holders. This is similar to what will happen when someone purchases access to the game through a Bod described in on the [DadBodNFT](DadBodNFT.md) page. This makes buying in early incredibly important! It also means that anyone you send to buy a DadBod will be paying you a small amount.
 
 ## Whitelist
 There are 199 whitelist spots.  
