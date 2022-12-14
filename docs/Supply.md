@@ -18,8 +18,8 @@ Here are the current tranches and their prices:
 - Tranche 6: 5000 - 5999, 20 KDA
 - Tranche 7: 6000 - 6999, 23 KDA
 - Tranche 8: 7000 - 7999, 26 KDA
-- Tranche 2: 8000 - 8999, 30 KDA
-- Tranche 2: 9000 - 1999, 0 KDA -> One DadBod, the LAST ONE!
+- Tranche 9: 8000 - 8999, 30 KDA
+- Tranche 10: 9000th, 0 KDA -> One DadBod, the LAST ONE, FREE!
 
 Once a tranch has sold out, all the DadBodNFT holders will be snapshotted, and the revenue from DadBod NFT mints in future tranches will be split among the DadBodNFT holders. This is similar to what will happen when someone purchases access to the game through a Bod described in on the [DadBodNFT](DadBodNFT.md) page. This makes buying in early incredibly important! It also means that anyone you send to buy a DadBod will be paying you a small amount.
 
